@@ -12,7 +12,6 @@ function capitalize(str){
         result.push(capzz)
     }
    return  console.log(result.join(" "));
-       
 }
 
 capitalize("i love coding");
